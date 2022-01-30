@@ -13,7 +13,7 @@ Super-simple way to categorize files in a messy directory. And it's only 4 KB!
 2. Install pickitup package with `pip3 install pickitup`
 3. Open your folder in terminal and run `pickitup` (Don't run program in /home folder :) )
 
-## How It Works:
+## How It Works
 
 1. Lists all files in directory (os.listdir)
 ```python
