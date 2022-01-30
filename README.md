@@ -6,6 +6,8 @@ Super-simple way to categorize files in a messy directory. And it's only 4 KB!
 - Size of file
 - Last modification date
 
+![picky](https://user-images.githubusercontent.com/73137174/151708777-d553d1c2-946d-4718-9fd4-d88acb7ec45c.gif)
+
 ## How To Install
 1. If pip is not installed `sudo apt install pip3` 
 2. Install pickitup package with `pip3 install pickitup`
