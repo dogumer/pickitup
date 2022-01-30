@@ -10,6 +10,7 @@ Super-simple way to categorize files in a messy directory. And it's only 4 KB!
 
 ## How To Install
 1. If pip is not installed `sudo apt install pip3` 
+- For Windows: Download [get-pip.py](https://bootstrap.pypa.io/get-pip.py) and store it in the same directory as python is installed. Then run `python get-pip.py`
 2. Install pickitup package with `pip3 install pickitup`
 3. Open your folder in terminal and run `pickitup` (Don't run program in /home folder :) )
 
