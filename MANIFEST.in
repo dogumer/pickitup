@@ -1,2 +1,3 @@
 include README.md
 include LICENSE.txt
+include pickitup/file_types.json
