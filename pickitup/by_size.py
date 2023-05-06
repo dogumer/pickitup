@@ -1,5 +1,3 @@
-# solve: don't check sub-directories
-
 import os
 
 megabyte = 1000000 #byte
